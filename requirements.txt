@@ -1,0 +1,8 @@
+gradio==4.22.0
+plotly==5.20.0
+polars==0.20.15
+python-dotenv==1.0.1
+transformers==4.38.2
+spaces==0.24.2
+alpaca-py==0.19.1
+chronos @ git+https://github.com/amazon-science/chronos-forecasting.git
