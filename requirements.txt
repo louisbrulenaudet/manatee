@@ -1,4 +1,4 @@
-gradio==4.22.0
+gradio==4.36.0
 plotly==5.20.0
 polars==0.20.15
 python-dotenv==1.0.1
